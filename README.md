@@ -288,12 +288,12 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/blog/">
+        <a href="https://blog-breeze.demo.magefan.top/blog">
           view
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/admin/">
+        <a href="https://blog-breeze.demo.magefan.top/admin/blog/post/">
           view
         </a>
       </td>
