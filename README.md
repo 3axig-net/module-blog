@@ -268,7 +268,7 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/blog/">
+        <a href="https://blog-breeze.demo.magefan.top/blog">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
             alt="Magento 2 Blog Extension Storefront Demo"
@@ -277,7 +277,7 @@ Try out our open demo and if you like our extension **please give us some star o
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/admin/">
+        <a href="https://blog-breeze.demo.magefan.top/admin/blog/post/">
           <img
             src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Blog Extension Admin Panel Demo"
