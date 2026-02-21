@@ -1,53 +1,126 @@
-# Magento 2 Blog Extension with AI Blog Writer
+# [Magento 2 Blog](https://magefan.com/magento2-blog-extension) Extension | SEO Blog for Magento
 
 [![Total Downloads](https://poser.pugx.org/magefan/module-blog/downloads)](https://packagist.org/packages/magefan/module-blog)
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-blog/v/stable)](https://packagist.org/packages/magefan/module-blog)
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-blog-ext_1.webp">
 
-[Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)  is №1 blogging solution for Magento with a full range of features to make it perform, rank and convert. 
+Magefan [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)  is a fully integrated blog for Magento 2 that allows you to blog directly inside your store — no WordPress, no subdomains, no third-party platforms.
 
-Streamline blog publishing, automate blog posts creation, design engaging blog pages and manage everything directly within your admin panel. No need to keep relying on Wordpress or some other external platforms. 
+Streamline blog publishing, create blog post,categories and other pages, design blog pages and manage everything within your admin panel. 
 
-It’s the simplest way to grow traffic to your eCommerce store organically, engage visitors and turn visits into conversions.
+Improve organic traffic, content marketing, and search visibility and sell directly from your blog.
 
-Magefan Blog is the only solution you’ll need!
+Launch a blog for Magento 2 in minutes and turn content into consistent organic traffic and sales.
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+> **Notes:**
+>  * **ATTENTION!** Latest available version for Magento 2.1.x is Blog v2.9.0.1
+>  * **ATTENTION!** Latest free version for Magento Open Source is Blog v2.12.4
+
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento2-blog-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
+___
+TL;DR:
+Magefan Blog Extension for Magento is the best blog extension with a proven record of 10,000 stores and more than 2,000,000 downloads over 10 years. It lets you create a powerful SEO blog inside Magento and make it perform, rank and convert without any extra integrations.
 
-## Navigation
-  * [Pricing](https://github.com/magefan/module-blog#editions--pricing)
-  * [Features](https://github.com/magefan/module-blog#features)
-  * [Demo](https://github.com/magefan/module-blog#demo)
-  * [FAQs](https://github.com/magefan/module-blog#magento-2-blog-extension-faqs)
-  * [User Guide](https://magefan.com/blog/magento-2-blog-extension-documentation)
-  * [Change Log](https://magefan.com/magento2-blog-extension/change-log)
-  * [Related extensions](https://github.com/magefan/module-blog#magento-2-extensions-by-magefan)
-
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.0.14. Please install this extension first if you use installation via FTP.
-  * **Note** that the extension is free only for the Magento Community (Open Source) Edition before version 2.12.4. For Magento EE, ECE, and B2B or Blog extension version higher 2.12.4 you need to purchase the license for [Blog Base or go with Blog Plus, Blog Extra](https://magefan.com/magento2-blog-extension/pricing).
-  * **ATTENTION!** Latest available version for Magento 2.1.x is Blog v2.9.0.1
-  * **ATTENTION!** Latest free version for Magento Open Source is Blog v2.12.4
-
-## Editions & Pricing
-  
-<a href="https://magefan.com/magento2-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/blog-extension-pricing-plans.png"
-            alt="Magento 2 Blog Editions & Pricing" />
-        </a>    
-
- ## Special Offers
+ ## Special Offers for the Magento Blog Extension users
   
 <a href="https://magefan.com/magento2-blog-extension/pricing"><img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/banners/magefan-blog-extra-banner.webp" alt="Magento 2 Blog Extra" /></a> <a href="https://magefan.com/magento2-blog-extension/pricing"><img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/banners/magefan-blog-upgrade-banner.webp" alt="Magento 2 Blog Extra" /></a>  
-        
-## Features
+
+## Why add a blog to Magento instead of using WordPress?
+
+Many eCommerce stores, including Magento, run blogs on separate platforms like WordPress. While that may seem convenient, it often creates:
+
+* SEO authority split between your store and a blog
+* Complicated integrations
+* Tracking inconsistencies
+* Performance issues
+* Security risks from additional platforms
+
+A native Magento 2 blog keeps everything under one domain, one system, and one SEO strategy.
+
+Magefan Blog Extension for Magento allows you to create content directly inside Magento, which strengthens domain authority and allows you to keep full control over content, design, performance, and analytics.
+
+## Magento 2 Blog Extension - Full Feature List
+
+Magefan Blog comes with more than 130+ features for blog creation, management and design. These are some of the main features. Visit Magefan [Blog Pricing](https://magefan.com/magento2-blog-extension/pricing) for full feature list.
+
+### Core blog features
+
+* Multi-website compatibility
+* Multi-language support
+* Fully responsive blog design for all devices
+* Create, edit, and manage unlimited blog posts
+* Blog categories & category management
+* Duplicate posts for quick reuse
+* Preview posts before publishing
+* Schedule posts
+* Display average reading time per post
+* Post views count
+* Related posts logic
+* Add related products to blog posts
+* Display related posts on product pages
+
+### Comments and engagement
+
+* Integrated comments support (Magefan/Facebook/Disqus)
+* Edit, approve, or disapprove comments
+* Allow guest comments
+* Reply to blog comments
+* Comment form reCAPTCHA support
+
+### Blog Display & Navigation
+
+* Multiple blog homepage display modes
+* Add blog categories to main menu
+* Category sorting
+* Category display modes
+* Category descriptions
+* Prev/Next navigation for posts
+* Breadcrumbs for blog pages
+
+### SEO and structured data
+
+* Metadata management for all blog pages
+* Meta robots configuration
+* SEO-friendly blog URLs
+* Post rich snippets structured data
+* Blog XML sitemap integration
+* Open Graph / social sharing metadata
+* Featured image & alt tag support
+* Post media gallery support
+
+### Sidebar and widgets
+
+* Blog search widget
+* Sidebar categories tree
+* Sidebar recent posts
+* Sidebar featured posts
+* Sidebar popular posts
+* Sidebar archive
+* Sidebar related products
+* Sidebar tags & tag cloud (animated)
+* Sidebar RSS feed
+* Sidebar custom HTML blocks
+
+### Performance and display control
+
+* Post list pagination
+* Lazy loading for post lists
+* Add blog posts anywhere in your store
+* Custom blog CSS and custom post CSS
+* Page Builder and WYSIWYG compatibility
+
+### Import, export, and API
+
+* Import from WordPress
+* Import from CSV/XML files
+* Import from other blog platforms (AheadWorks, Mageplaza, Mirasvit, Amasty, HubSpot, Joomla)
+* Export blog posts
+* REST API and GraphQL support
+
+## Benefits of Using Magento 2 Blog Extension
 
 ### Write, Edit, and Publish Without the Busywork
 
@@ -223,7 +296,24 @@ Enable social sharing to multiple platforms to let your readers do the marketing
   <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/blog/blog-og-tags-magento.webp">
 </p>
 
-## Magento 2 Blog Extension FAQs
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.0.14. Please install this extension first if you use installation via FTP.
+  * **Note** that the extension is free only for the Magento Community (Open Source) Edition before version 2.12.4. For Magento EE, ECE, and B2B or Blog extension version higher 2.12.4 you need to purchase the license for [Blog Base or go with Blog Plus, Blog Extra](https://magefan.com/magento2-blog-extension/pricing).
+
+## Magento 2 Blog Extension Pricing
+The price of the Magento 2 Blog Extensions depends on the extent of features you want to have while managing a blog in Magento. Magefan offers you a flexible price for Blog Extension with the basic plan covering basic blog management needs, Plus - offering partial automation and extended SEO opportunities, and extra optimisation of blog design and author management.
+
+> **Notes:**
+>  * **ATTENTION!** Latest free version for Magento Open Source is Blog v2.12.4
+  
+<a href="https://magefan.com/magento2-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/blog-extension-pricing-plans.png"
+            alt="Magento 2 Blog Editions & Pricing" />
+        </a>    
+
+## Frequently asked questions about Magento 2 Blog Extension
 
 ### Does Magento 2 have a built-in blog, or do I need a Magento 2 Blog Extension?
 No, unfortunately Magento  does not have a built in blog. To publish blog posts, user guides or news you need to add a Magento 2 Blog Extension. Magefan Blog is built to offer you ultimate blogging experience within your Magento admin, so you don’t have to rely on any third-party content management system.
