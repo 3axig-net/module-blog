@@ -1,4 +1,4 @@
-# [Magento 2 Blog](https://magefan.com/magento2-blog-extension) Extension | SEO Blog for Magento
+# [Magento 2 Blog](https://magefan.com/magento2-blog-extension) Extension by Magefan
 
 [![Total Downloads](https://poser.pugx.org/magefan/module-blog/downloads)](https://packagist.org/packages/magefan/module-blog)
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-blog/v/stable)](https://packagist.org/packages/magefan/module-blog)
